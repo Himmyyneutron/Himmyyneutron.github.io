@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](384271869_643781894535555_6467489816087384634_n.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
